@@ -35,13 +35,13 @@
   
  <distributionManagement>
 	<repository>
-		<id>tata</id>
+		<id>deployment</id>
 		<name>Internal Releases</name>
 		<url>http://54.193.77.129:8081/nexus/content/repositories/SCMREL/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>tata</id>
+		<id>deployment</id>
 		<name>Internal Releases</name>
 		<url>http://54.193.77.129:8081/nexus/content/repositories/SCMSNAP/</url>
 	</snapshotRepository>
