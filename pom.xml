@@ -37,13 +37,13 @@
 	<repository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://54.193.77.129:8081/nexus/content/repositories/SCMREL/</url>
+		<url>http://54.245.193.239:8081/nexus/content/repositories/card-release/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://54.193.77.129:8081/nexus/content/repositories/SCMSNAP/</url>
+		<url>http://54.245.193.239:8081/nexus/content/repositories/card-snapshots/</url>
 	</snapshotRepository>
 
 </distributionManagement>
